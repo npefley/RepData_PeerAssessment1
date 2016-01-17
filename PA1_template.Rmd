@@ -25,7 +25,7 @@ are coded as 𝙽𝙰)
 - **date**: The date on which the measurement was taken in YYYY-MM-DD format
 
 - **interval**: Identifier for the 5-minute interval in which measurement  
-was taken (e.g., 305 identifies the period from 3:05 am to 3:10 am)
+was taken (e.g., 405 identifies the period from 4:05 am to 4:10 am)
 
 ###Load Dataset and Packages  
 The dataset has been downloaded as a comma-separated-value (csv) file and  
